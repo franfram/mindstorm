@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mindstorm"
+  site-url: "https://franfram.github.io/mindstorm"
+  description: "A library for building LLM societies"
+  repo-branch: main
+  repo-url: "https://github.com/franfram/mindstorm"
